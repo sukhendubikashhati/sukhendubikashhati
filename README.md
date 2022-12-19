@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data/Data Engineer.
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Engineering RealTime projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ... it1617@cemk.ac.in
 
 <!---
 sukhendubikashhati/sukhendubikashhati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
